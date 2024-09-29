@@ -8,6 +8,9 @@ Modified version of BenjaminWins11's Super Mario Maker 4 on Scratch to include r
 1. Replay codes may be slightly inaccurate on some levels. However 99.99% of them should play through without any issues.
 2. On some bosses, their movement is randomized and may lead to a replay fault. There is currently no fix for this as of now, but I am looking into it.
 
+## Sharing Save Codes
+https://scratch.mit.edu/discuss/topic/782129/
+
 ## 3. CONTRIBUTIONS OF ANY SORT WOULD BE GREATLY APPRECIATED!
 1. There could be some bugs lurking around. If you find any, please report them by making a pull request or add a comment using Issues.
 2. New features would be awesome as well!
